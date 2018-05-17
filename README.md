@@ -21,3 +21,6 @@
  - 2016.2 enrollments <http://dados.ufrn.br/dataset/matriculas-componentes/resource/f6179838-b619-4d7d-af9c-18c438b80dd4>
  - 2017.1 enrollments <http://dados.ufrn.br/dataset/matriculas-componentes/resource/79071c21-e32c-438f-b930-d1b6ccc02ec2>
  - 2017.2 enrollments <http://dados.ufrn.br/dataset/matriculas-componentes/resource/55dfe713-ff7c-4fa8-8d1d-d4294a025bff>
+
+# Youtube video #
+ - Link: <https://youtu.be/hp8hYrlj_vU>
